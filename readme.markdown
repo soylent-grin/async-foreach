@@ -8,7 +8,7 @@ npm run tests
 
 ### Usage
 
-```
+```javascript
 var asyncForEach = require('path/to/async-for-each');
 
 asyncForeach([1, 2, 3], function(item, index, done) {
