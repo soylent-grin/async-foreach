@@ -1,0 +1,27 @@
+{
+  "name": "async-foreach",
+  "version": "0.0.1",
+  "description": "Asyncronous forEach implementation",
+  "main": "index.js",
+  "dependencies": {
+    "qunit": "~0.7.6",
+    "request": "~2.60.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./scripts/test-runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/soylent-grin/async-foreach"
+  },
+  "keywords": [
+    "async",
+    "foreach"
+  ],
+  "author": "soylent-grin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/soylent-grin/async-foreach/issues"
+  }
+}
